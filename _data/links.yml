@@ -231,12 +231,12 @@
     - name: github
       icon: github black
       style: basic
-      url: https://github.com/dengbowang/
+      url: https://github.com/authorlwf/
 
     - name: gitee
       icon: git red
       style: basic
-      url: https://gitee.com/dengbowang/
+      url: https://gitee.com/authorlwf/
 
     - name: 中国大学MOOC
       icon: school green
