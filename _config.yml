@@ -1,16 +1,16 @@
-repository: dengbowang/dengbowang.github.io
-repository_url: https://github.com/dengbowang
+repository: authorlwf/authorlwf.github.io
+repository_url: https://github.com/authorlwf
 
 timezone: Asia/Shanghai
 lang: zh_CN
 
-title1: 立方体 · Dengbowang
+title1: 立方体 · authorlwf
 title: 立方体Cube
-alias_en: Dengbowang
+alias_en: authorlwf
 alias_cn: 絺绤导航
 # description: A Navigation Website for BYR
 keywords: 絺绤导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: https://dengbowang.top
+url: https://authorlwf.top
 established_at: "2022-10-01T00:00+08:00"
 
 author: iROCKBUNNY
@@ -18,7 +18,7 @@ author_url: https://irockbunny.com
 organization: TEELAB
 organization_url: https://teelab.net
 
-zhihu_url: https://www.zhihu.com/people/dengbowang
+zhihu_url: https://www.zhihu.com/people/authorlwf
 zhihu:   知乎
 
 weixin_url: https://mp.weixin.qq.com/s/VUr0DffMom3VTX30xcvidQ
